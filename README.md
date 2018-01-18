@@ -117,7 +117,7 @@ These IDEs normally don’t give you much insight to *your* code, *especially* a
 
 This is the gap that TypeScript fills. It connects all your code into an intelligent ecosystem that checks the code your writing against all the known points of the ecosystem.
 
-[show example with moneynodeweb in Webstorm]
+[show example with app in Webstorm]
 
 On top of that, it provides static code analysis, exposing many of the most common human errors that cause bugs.
 
